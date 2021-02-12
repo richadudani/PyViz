@@ -1,4 +1,4 @@
-# Unit 6 - Pythonic Monopoly
+# Pythonic Monopoly
 
 ![Toronto at night](Instructions/Images/real-estate-in-toronto.jpg)
 
@@ -9,6 +9,14 @@ In this assignment, I have analyzed historical house values, dwelling types per 
 Post the analysis, I have created a prototype dashboard for the Real Estate Investment division of Harrold’s company to provide customers with investment opportunities for the Toronto market. 
 
 This dashboard's goal is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in Toronto.
+
+## Summary of Tools, Libraries and APIs Used
+
+Language Used: Python
+
+Libraries Used: Pandas, Matplotlib, hvplot, Plotly Express
+
+APIs used: Mapbox
 
 
 ## Instructions - How to run and use the Dashboard
